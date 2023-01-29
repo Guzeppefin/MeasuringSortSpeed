@@ -1,0 +1,2 @@
+# MeasuringSortSpeed
+The speed of a sorting algorithm can be measured by the number of comparisons and swaps it takes to sort a given set of data. The time complexity of an algorithm can also be used to measure its sort speed, as algorithms with better time complexity tend to have faster sorting speeds. Additionally, the amount of memory used by an algorithm can also be used to measure its sort speed, as algorithms that require more memory tend to take longer to complete.
